@@ -1,4 +1,4 @@
-🌍 2. Multilingual Translator App
+🌍 **2. Multilingual Translator App**
 About:
 This web app translates user input into multiple languages using Google Translator through deep_translator.
 
